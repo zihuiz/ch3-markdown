@@ -1,4 +1,4 @@
-# Exercise-2
+# Exercise-3
 
 As described in the [git-basics chapter](https://info201.github.io/git-basics.html), you should begin by forking this repository, then cloning it to your local machine (if you haven't already).
 
